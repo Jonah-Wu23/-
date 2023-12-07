@@ -72,7 +72,7 @@ A：Because I'm a humble freshman, learning Python for less than a month, realiz
 
 Q：What functions can this system realize?
 
-A：First of all, this system allows different user groups to log in, "administrator" and "user" (student) Each user group has different privileges, and can realize different operations, for example, administrator can modify student information but user can't. Specifically, administrator can realize the following operations.
+A：First of all, this system allows different user groups to log in, "administrator" and "user" (student) Each user group has different privileges, and can realize different operations, for example, administrator can modify student information but user can't. 
 
 Specifically, administrators can realize the following operations:
 
