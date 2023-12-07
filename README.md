@@ -65,3 +65,61 @@ A：因为我真的对这件事有执念！说多了都是泪~（T-T）
 版权声明：
 该项目所有源代码依据CC-0协议传播
 欢迎各位大佬提出优化意见！
+
+Optimization suggestions are welcome!
+
+Q: What kind of project is this?
+
+A: A simple implementation of a student information management system This is also a rookie project made by a freshman dog who is new to programming.
+
+Q: Why didn't you make a graphical interface?
+
+A：Because I'm a humble freshman, learning Python for less than a month, realizing the current function is already my limit!
+
+Q：What functions can this system realize?
+
+A：First of all, this system allows different user groups to log in, "administrator" and "user" (student) Each user group has different privileges, and can realize different operations, for example, administrator can modify student information but user can't. Specifically, administrator can realize the following operations.
+
+Specifically, administrators can realize the following operations:
+
+1. View and modify students' personal information
+
+2. View and modify student test information
+
+3. view and modify student schedule information
+
+4. Approve students to change majors
+
+5. Approve students to minor in the program
+
+6.Modify administrator password
+
+Users can realize the following operations:
+
+1. View their personal information
+
+2. View their exams
+
+3.View their class schedule
+
+4.Apply for changing majors
+
+5.Apply for a minor
+
+6.Check the approval status of your change of major
+
+7.View your minor approval status
+
+8.Change your password
+
+In addition, the system also has some exception handling capabilities
+
+Q: Why is there something really smelly in the data?
+
+A: ah ah ah ah ah
+
+Q: Besides the basic functions, why are you so concerned about the transfer and minor functions? Can't you think of any other features to implement?
+
+A: Because I'm really obsessed with this! It's all tears if I say too much~(T-T)
+
+Copyright: All source code for this project is distributed under the CC-0 protocol. All optimization suggestions are welcome!
